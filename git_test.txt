@@ -1,2 +1,0 @@
-git test
-testB 에서 수정한 부분
