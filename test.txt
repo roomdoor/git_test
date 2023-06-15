@@ -1,2 +1,6 @@
 ddd
+<<<<<<< HEAD
 dfsdfafa
+=======
+aaaa
+>>>>>>> a178b61 (ㅈ댐)
